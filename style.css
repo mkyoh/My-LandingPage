@@ -41,10 +41,10 @@ align-items: center;
     padding: 10px 20px;
     font-size: 20px;
     border-radius: 8px;
-    background: indianred;
+    background: #8b4fb3;
 }
 .register a:hover{
-    border: 1px solid #8b4fb3;
+    border: 1px solid purple;
     background: transparent;
 }
 .h-text{
@@ -71,6 +71,6 @@ align-items: center;
     transition: 0.4s;
 }
 .h-text a:hover{
-    border: 1px solid indianred;
+    border: 1px solid purple;
     background: transparent;
 }
