@@ -64,9 +64,9 @@ align-items: center;
 }
 .h-text a{
     text-decoration: none;
-    background: indianred;
+    background: purple;
     padding: 10px 20px;
-    color: #8b4fb3;
+    color:#fff;
     letter-spacing: 5px;
     transition: 0.4s;
 }
