@@ -77,20 +77,8 @@ align-items: center;
 label{
 display: none;
 }
-#check{
-z-index: 3;
-display: none;
-}    
-@media (max-width:960px){
-header .nav{display:none;
-}
-    label{
-display: block;
-font-size: 25px;
-cursor: pointer;
-transition: 0.3s;
-transition-property: color;
-    }
+
+    
     
 
     
